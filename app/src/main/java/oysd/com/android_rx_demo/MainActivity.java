@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import oysd.com.android_rx_demo.util.DownloadUtil;
+import oysd.com.android_rx_demo.utils.DownloadUtil;
 import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
